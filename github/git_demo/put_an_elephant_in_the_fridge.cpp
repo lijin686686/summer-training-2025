@@ -3,7 +3,7 @@ using namespace std;
 
 void open_the_fridge() {
     // add code here
-   // user A
+   cout<<hello<<endl;
 }
 void put_the_elephant_in() {
     // add code here
